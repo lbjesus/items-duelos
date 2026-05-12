@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Corrupt",
+    "type": "Knife",
+    "rarity": "Godly",
+    "value": 850,
+    "demand": 9,
+    "trend": "Rising",
+    "tradable": true
+  }
+]
