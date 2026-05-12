@@ -3,9 +3,9 @@
     "id": 1,
     "name": "Corrupt",
     "type": "Knife",
-    "rarity": "Godly",
+    "rarity": "Goat",
     "value": 850,
-    "demand": 900,
+    "demand": 90,
     "trend": "Rising",
     "tradable": true
   }
